@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm M.A.HANNAN</h1>
-<h3 align="center">MERN & REACT NATIVE DEVELOPER</h3>
+<h1 align="center">Hi 👋, M.A.HANNAN</h1>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Kubernates<br><br>👯 I’m looking to collaborate on Full Stack Projects<br><br>📫 How to reach me er.mahannan@gmail.com
+🔭 I’m currently exploring LLM Development<br><br>🌱 Currently preparing for AWS SAA<br><br>👯 I’m looking to collaborate on Full Stack Projects<br><br>📫 How to reach me er.mahannan@gmail.com
 
 
 ## 🌐 Socials:
